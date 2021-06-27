@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1624727334 source:c:\github\snakemasterwithcpp\snake\main.cpp
+	<graphics.h>
+	<time.h>
+	"snakeBody.h"
+	"food.h"
+
+1624727361 c:\github\snakemasterwithcpp\snake\include\snakebody.h
+	"food.h"
+	<graphics.h>
+	<time.h>
+
+1624727361 c:\github\snakemasterwithcpp\snake\include\food.h
+	<graphics.h>
+	<time.h>
+
+1624726699 source:c:\github\snakemasterwithcpp\snake\src\snakebody.cpp
+	"snakeBody.h"
+
+1624726699 source:c:\github\snakemasterwithcpp\snake\src\food.cpp
+	"food.h"
+
